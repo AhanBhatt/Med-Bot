@@ -15,4 +15,4 @@ A context-based chatbot understands ongoing conversations, identifies user inten
 #Instructions:
 1) Create a folder titled "Data" in the project directory
 2) Transfer all your medical e-books to that folder in pdf format
-3) 
+3) Setup is now complete, you can ask your queries to the bot through the "Result" section
